@@ -23,16 +23,16 @@
 
 展示上海市住户存款相对于年初的增减变化趋势。
 
-![住户存款比年初增减数](pic/household_deposit_change.png)
+![住户存款比年初增减数](charts/household_deposit_change.png)
 
 ### 住户短期贷款比年初增减数
 
 展示上海市住户短期贷款相对于年初的增减变化趋势。
 
-![住户短期贷款比年初增减数](pic/household_loan_shortterm_change.png)
+![住户短期贷款比年初增减数](charts/household_loan_shortterm_change.png)
 
 ### 住户中长期贷款比年初增减数
 
 展示上海市住户中长期贷款相对于年初的增减变化趋势。
 
-![住户中长期贷款比年初增减数](pic/household_loan_longterm_change.png)
+![住户中长期贷款比年初增减数](charts/household_loan_longterm_change.png)
