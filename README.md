@@ -40,3 +40,7 @@
 
 
 ![企事业单位中长期贷款比年初增减数](charts/enterprise_loan_longterm_change.png)
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=jozhn/shanghai-finance-data-view&type=date&legend=top-left)](https://www.star-history.com/#jozhn/shanghai-finance-data-view&type=date&legend=top-left)
