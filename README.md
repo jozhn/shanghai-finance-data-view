@@ -29,6 +29,12 @@
 
 ![住户中长期贷款比年初增减数](charts/household_loan_longterm_change.png)
 
+### 住户贷款比年初增减数
+
+展示上海市住户贷款总量在历年同期下的对比情况，使用金融统计表“境内贷款”项下的“1.住户贷款”总数据。
+
+![住户贷款比年初增减数](charts/household_loan_combined_change.png)
+
 
 ### 企事业单位短期贷款比年初增减数
 
