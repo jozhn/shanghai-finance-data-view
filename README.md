@@ -41,6 +41,12 @@
 
 ![企事业单位短期贷款比年初增减数](charts/enterprise_loan_shortterm_change.png)
 
+### 企事业单位贷款比年初增减数
+
+展示上海市企（事）业单位贷款总量在历年同期下的对比情况，使用金融统计表“境内贷款”项下的“2.企（事）业单位贷款”总数据。
+
+![企事业单位贷款比年初增减数](charts/enterprise_loan_total_change.png)
+
 
 ### 企事业单位中长期贷款比年初增减数
 
