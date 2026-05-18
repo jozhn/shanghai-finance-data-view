@@ -11,47 +11,47 @@
 
 ## 📊 数据可视化
 
-### 住户存款比年初增减数
+### 住户存款当月增减数
 
-展示上海市住户存款相对于年初的增减变化趋势。
+展示上海市住户存款的当月增减变化趋势。
 
-![住户存款比年初增减数](charts/household_deposit_change.png)
+![住户存款当月增减数](charts/household_deposit_change.png)
 
-### 住户短期贷款比年初增减数
+### 住户短期贷款当月增减数
 
-展示上海市住户短期贷款相对于年初的增减变化趋势。
+展示上海市住户短期贷款的当月增减变化趋势。
 
-![住户短期贷款比年初增减数](charts/household_loan_shortterm_change.png)
+![住户短期贷款当月增减数](charts/household_loan_shortterm_change.png)
 
-### 住户中长期贷款比年初增减数
+### 住户中长期贷款当月增减数
 
-展示上海市住户中长期贷款相对于年初的增减变化趋势。
+展示上海市住户中长期贷款的当月增减变化趋势。
 
-![住户中长期贷款比年初增减数](charts/household_loan_longterm_change.png)
+![住户中长期贷款当月增减数](charts/household_loan_longterm_change.png)
 
-### 住户贷款比年初增减数
+### 住户贷款当月增减数
 
-展示上海市住户贷款总量在历年同期下的对比情况，使用金融统计表“境内贷款”项下的“1.住户贷款”总数据。
+展示上海市住户贷款总量的当月增减变化趋势，使用金融统计表“境内贷款”项下的“1.住户贷款”总数据。
 
-![住户贷款比年初增减数](charts/household_loan_combined_change.png)
-
-
-### 企事业单位短期贷款比年初增减数
+![住户贷款当月增减数](charts/household_loan_combined_change.png)
 
 
-![企事业单位短期贷款比年初增减数](charts/enterprise_loan_shortterm_change.png)
-
-### 企事业单位贷款比年初增减数
-
-展示上海市企（事）业单位贷款总量在历年同期下的对比情况，使用金融统计表“境内贷款”项下的“2.企（事）业单位贷款”总数据。
-
-![企事业单位贷款比年初增减数](charts/enterprise_loan_total_change.png)
+### 企事业单位短期贷款当月增减数
 
 
-### 企事业单位中长期贷款比年初增减数
+![企事业单位短期贷款当月增减数](charts/enterprise_loan_shortterm_change.png)
+
+### 企事业单位贷款当月增减数
+
+展示上海市企（事）业单位贷款总量的当月增减变化趋势，使用金融统计表“境内贷款”项下的“2.企（事）业单位贷款”总数据。
+
+![企事业单位贷款当月增减数](charts/enterprise_loan_total_change.png)
 
 
-![企事业单位中长期贷款比年初增减数](charts/enterprise_loan_longterm_change.png)
+### 企事业单位中长期贷款当月增减数
+
+
+![企事业单位中长期贷款当月增减数](charts/enterprise_loan_longterm_change.png)
 
 ## Star History
 
